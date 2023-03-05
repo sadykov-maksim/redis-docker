@@ -1,4 +1,4 @@
-# mysql-docker
+# redis-docker
 
 Базовая конфигурация docker-compose для работы с базой данных Redis
 
